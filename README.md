@@ -1,67 +1,54 @@
-# Hi, I'm Jyoti 👋
-
-<img align="right" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ1ZDBhcTV5MHA2OWFvYmNhamd6NHpodzBhdzhqNDl1Ymd1c3kzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuMZkCsunLorh54Dc1/giphy.gif" />
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Student;Aspiring+AI+Engineer)
+<h1 align="center">Hi, I'm Jyoti 👋</h1>
 
 ---
 
-## 🎓 About Me
-I am a Computer Science student passionate about Data Science, Machine Learning, and Artificial Intelligence.  
-I love building real-world projects and learning how AI solves real problems.
+<img align="right" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gwcXQ1Z2l6dDB4OWthc3RuOW14c2J5c3R3bTY1cXQwZGcyNjQ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u7Q3bJnID2DJ6ydItj/giphy.gif" />
 
-My goal is to pursue **MS in Data Science / AI in the USA**.
+## 💫 About Me
+
+- Data Science and AI enthusiast  
+- Strong foundation in Machine Learning  
+- Hands-on Deep Learning experience  
+- Built end-to-end AI projects  
+- Skilled in Python and analytics  
+- Internship experience in Data Science  
+- Worked on real-world datasets  
 
 ---
 
-## 🧠 Skills
-- Python  
-- Machine Learning  
-- Deep Learning (CNN basics)  
-- Data Analysis (Pandas, NumPy)  
-- SQL  
-- HTML, CSS, Bootstrap  
-- Git & GitHub  
+## 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-### 🧠 Brain Tumor Detection
-- CNN-based deep learning model  
-- MRI image classification  
-- Detects tumor / no tumor  
-
-### 📊 Machine Learning Projects
-- Linear Regression  
-- Polynomial Regression  
-- Classification models  
-- Data preprocessing  
-
-### 🏫 Preschool Website
-- Responsive website (Pre-Nursery to KG)  
-- HTML, CSS, Bootstrap  
-- UI-based project  
+- Brain Tumor Detection using CNN  
+- Fake News Detection using LSTM  
+- Dog vs Cat Classification using CNN  
+- Student Performance Prediction (Regression)  
+- Face Recognition & Anonymization System  
+- CareTech AI Healthcare Assistant  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyotirana201&show_icons=true)
+![](https://github-readme-stats.shion.dev/api?username=Jyotirana201&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Jyotirana201&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jyotirana201&theme=dark&layout=compact)
 
 ---
 
-## 🎯 Goals
-- 🎓 MS in Data Science (USA)
-- 🤖 Improve Deep Learning skills
-- 📈 Build strong AI portfolio
-
----
-
-## 📫 Contact
-Email: your-email@example.com  
-LinkedIn: your-link  
-
----
-
-⭐ *Keep learning. Keep building. Keep growing.*
+## ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
